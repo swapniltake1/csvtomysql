@@ -28,7 +28,7 @@ Clone this repository to your local machine:
 
 ```
 bash
-git clone https://github.com/your-username/spring-boot-batch-csv-to-mysql.git
+git clone https://github.com/swapniltake1/csvtomysql.git
 ```
 
 ## Project Structure
