@@ -1,6 +1,5 @@
 # Spring Boot Batch processing code that converts CSV data to MySQL:
 
-```markdown
 # Spring Boot Batch CSV to MySQL Conversion
 
 This repository contains a Spring Boot Batch application that demonstrates how to efficiently process CSV data and store it in a MySQL database. This can be a valuable tool for handling large datasets and automating data import tasks.
@@ -27,7 +26,8 @@ Before you begin, ensure you have met the following requirements:
 
 Clone this repository to your local machine:
 
-```bash
+```
+bash
 git clone https://github.com/your-username/spring-boot-batch-csv-to-mysql.git
 ```
 
